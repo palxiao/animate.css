@@ -1,0 +1,10 @@
+@import '_vars.css';
+@import '_base.css';
+
+@import 'fading_exits/fadeOutUp.css';
+
+@import 'fading_entrances/fadeIn.css';
+
+@import 'bouncing_entrances/bounceIn.css';
+
+@import 'specials/rollIn.css';
